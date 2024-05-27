@@ -1,0 +1,19 @@
+:root{
+    --bg-color: #ffffff;
+    --text-color: #0f172a;
+    --main-color: #6b7280;
+    --other-color: #334155;
+    
+}
+body{
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
